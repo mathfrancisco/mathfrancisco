@@ -1,4 +1,4 @@
-![snake animation](https://github.com/<mathfrancisco><mathfrancisco>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<username=mathfrancisco><username=mathfrancisco>/blob/output/github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hello World!</h1>
 
