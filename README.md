@@ -8,8 +8,11 @@
   <br>👨‍💻  I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.</h2>
 
 ###
-![Matheus Francisco GitHub stats](https://github-readme-stats-matheus-francisco.vercel.app/api?username=mathfrancisco&show_icons=true&theme=dracula)
+    
+  ![Matheus Francisco GitHub stats](https://github-readme-stats-matheus-francisco.vercel.app/api?username=mathfrancisco&show_icons=true&theme=dracula)
+  
 
+    
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-francisco-1a33381b3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
