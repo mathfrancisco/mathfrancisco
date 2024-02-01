@@ -71,4 +71,4 @@
 </div>
 
 ###
-![Snake animation](https://github.com/mathfrancisco/mathfrancisco/blob/main/mathfrancisco-github-user-contribution.svg)
+![Snake animation](https://github.com/mathfrancisco/mathfrancisco/blob/output/github-contribution-grid-snake.svg)
