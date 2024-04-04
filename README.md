@@ -35,8 +35,9 @@
  <img src="![Captura de tela 2024-04-03 231812](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/0c0f2054-c3a6-415c-8df3-2a7c42fa3061)  alt="Portifolio Home"  />
 </a>
 </div>
-
-![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
+<div>
+<img src="![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)" />
+  </div>
 ###
 
 <h3 align="left">🔥Skills</h3>
