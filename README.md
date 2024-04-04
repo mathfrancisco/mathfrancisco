@@ -33,7 +33,7 @@
 <h3 align="left">Portifolio:</h3>
 <div align="left">
 <a href="https://matheus-francisco-portifolio.netlify.app/" > 
-<img src="https://github.com/mathfrancisco/mathfrancisco/assets/81334745/0c0f2054-c3a6-415c-8df3-2a7c42fa3061.png"/>
+<img src="https://github.com/mathfrancisco/mathfrancisco/assets/81334745/0c0f2054-c3a6-415c-8df3-2a7c42fa3061.png" width="300px"/>
 </a>
 </div>
 
