@@ -31,9 +31,11 @@
 ###
 
 <h3 align="left">Portifolio:</h3>
-<a href=https://matheus-francisco-portifolio.netlify.app/" > 
-<img src="![Captura de tela 2024-04-03 231812](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/0c0f2054-c3a6-415c-8df3-2a7c42fa3061.png)"/>
+<div align="left">
+<a href="https://matheus-francisco-portifolio.netlify.app/" > 
+<img src="https://github.com/mathfrancisco/mathfrancisco/assets/81334745/0c0f2054-c3a6-415c-8df3-2a7c42fa3061.png"/>
 </a>
+</div>
 
 ###
 
