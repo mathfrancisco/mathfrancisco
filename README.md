@@ -1,78 +1,42 @@
-<h1 align="center">Hello World!</h1>
 
-###
-
-<h2 align="left">Hi 👋, I'm Matheus Francisco! A passionate Full-Stack Developer student from Brazil.<br>
-  <br>🌱 I’m currently studying Full-Stack development at Senac and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/> <br>
-  <br>🔭 I am looking for my first job opportunity. My dream is to one day work as a Developer.<br>
-  <br>👨‍💻  I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.</h2>
-
-###
-  
-    
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-francisco-1a33381b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/math_francisco2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> 
-    
-  <a href="https://www.instagram.com/_mathfrancisco/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-   <a href="https://www.twitch.tv/fubah00" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-   </a>
-</div>
-
-###
-
-<h3 align="left">Portifolio:</h3>
-<div align="left" style='border: 4px solid #f00;'>
-<a href="https://matheus-francisco-portifolio.netlify.app/" > 
-<img src="https://github.com/mathfrancisco/mathfrancisco/assets/81334745/0c0f2054-c3a6-415c-8df3-2a7c42fa3061.png" width="200px" />
-</a>
-</div>
-
-###
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Francisco
+===============================================================================================================================
 ![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
-  
-###
 
-<h3 align="left">🔥Skills</h3>
 
-###
+I am Full-Stack Developer
+-------------------------
 
-<h4 align="left">Programming Languages</h4>
+I'm an aspiring Full-Stack web developer, equipped with basic skills in MongoDB, Express.js, React.js, and Node.js, seeking opportunities to gain practical experience and grow within the field of web development.
 
-###
+* 🌍  I'm based in São Paulo, Brazil.
+* 🖥️  See my portfolio at [My Portfolio](http://matheus-francisco-portifolio.netlify.app/)
+* ✉️  You can contact me at [math.francisco2@gmail.com](mailto:math.francisco2@gmail.com)
+* 🧠  I'm learning at the moment Vite.Js.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+<a href="https://www.github.com/mathfrancisco" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mathfrancisco?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
 
-###
+### Skills
 
-<h4 align="left">Tools & Frameworks</h4>
 
-###
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
 
-###
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mathfrancisco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  </a> <a href="https://www.linkedin.com/in/matheus-francisco-1a33381b3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mathfranisco"><img src="https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="Matheus Francisco GitHub stats" /></a>
+
+<a href="http://www.github.com/mathfrancisco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mathfrancisco&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="https://github.com/mathfrancisco" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&langs_count=10&title_color=22c55e&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
