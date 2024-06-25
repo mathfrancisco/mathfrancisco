@@ -12,7 +12,7 @@ I'm an aspiring Full-Stack web developer, equipped with basic skills in MongoDB,
 * 🌍  I'm based in São Paulo, Brazil.
 * 🖥️  See my portfolio at [My Portfolio](http://matheus-francisco-portifolio.netlify.app/)
 * ✉️  You can contact me at [math.francisco2@gmail.com](mailto:math.francisco2@gmail.com)
-* 🧠  I'm learning at the moment Vite.Js.
+* 🧠  I'm learning at the moment Angular.Js.
 
 <a href="https://www.github.com/mathfrancisco" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mathfrancisco?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
