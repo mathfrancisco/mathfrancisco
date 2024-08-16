@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Full-Stack Developer
 -------------------------
 
-I'm an aspiring Full-Stack web developer, equipped with basic skills in Java, Spring, Docker, and PostgreSql, seeking opportunities to gain practical experience and grow within the field of web development.
+I'm an aspiring Full-Stack web developer, equipped with basic skills in Java, Spring, Angular,Docker and PostgreSql, seeking opportunities to gain practical experience and grow within the field of web development.
 
 * 🌍  I'm based in São Paulo, Brazil.
 * 🖥️  See my portfolio at [My Portfolio](http://matheus-francisco-portifolio.netlify.app/)
