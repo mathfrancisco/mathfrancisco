@@ -7,12 +7,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Full-Stack Developer
 -------------------------
 
-I'm an aspiring Full-Stack web developer, equipped with basic skills in MongoDB, Express.js, React.js, and Node.js, seeking opportunities to gain practical experience and grow within the field of web development.
+I'm an aspiring Full-Stack web developer, equipped with basic skills in Java, Spring, Docker, and PostgreSql, seeking opportunities to gain practical experience and grow within the field of web development.
 
 * 🌍  I'm based in São Paulo, Brazil.
 * 🖥️  See my portfolio at [My Portfolio](http://matheus-francisco-portifolio.netlify.app/)
 * ✉️  You can contact me at [math.francisco2@gmail.com](mailto:math.francisco2@gmail.com)
-* 🧠  I'm learning at the moment Angular.Js.
+* 🧠  I'm learning at the moment Java.
 
 <a href="https://www.github.com/mathfrancisco" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mathfrancisco?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
