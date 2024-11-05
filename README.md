@@ -41,7 +41,7 @@ const skills = {
 - Real-time chat platform with group and private messaging
 - Implemented using WebSocket technology
 - Responsive design for all devices
-- [View Project](http://54.232.58.42/)
+- [View Project](https://livechat.tech/)
 
 ## 📊 GitHub Statistics
 
