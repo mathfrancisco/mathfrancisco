@@ -158,18 +158,6 @@ Developed multiple URL shortening APIs using different technologies and database
 
 ---
 
-
-## 🎓 Certifications & Training
-
-<details>
-<summary>View Certifications</summary>
-
-- AWS Certified Developer
-- Spring Professional Certification
-- Angular Advanced Development
-- Scrum Master Certified
-</details>
-
 ## 🌟 Specializations
 
 - Microservices Architecture
