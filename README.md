@@ -155,8 +155,13 @@ Developed multiple URL shortening APIs using different technologies and database
 [View Project 2 - MongoDB](link-to-url-shortener-mongodb-repo)
 </details>
 
-
 ---
+
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&theme=radical" alt="mathfrancisco's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical" alt="mathfrancisco's top languages"/>
+</div>
 
 ## 🌟 Specializations
 
@@ -164,6 +169,7 @@ Developed multiple URL shortening APIs using different technologies and database
 - Cloud-Native Applications
 - Performance Optimization
 - Scalable Systems Design
+
 
 ## 📱 Contact Information
 
@@ -182,7 +188,7 @@ Developed multiple URL shortening APIs using different technologies and database
 ![Remote](https://img.shields.io/badge/Remote-Worldwide-blue?style=for-the-badge&logo=zoom&logoColor=white)
 ![Freelance](https://img.shields.io/badge/Freelance-Available-green?style=for-the-badge&logo=freelancer&logoColor=white)
 
-<i>Let's build something amazing together!</i>
+<i>Let's build something amazing together!</i> </div>
 
 ![Bottom Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
