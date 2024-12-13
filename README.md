@@ -28,12 +28,13 @@ const matheus = {
 ## 💼 Professional Experience
 
 <details>
-<summary><b>Senior Software Engineer</b></summary>
+<summary><b>Junior Freelance Full-Stack Developer</b></summary>
 
-- Led development of enterprise-scale applications
-- Implemented microservices architecture
-- Reduced system latency by 60%
-- Mentored junior developers
+- Passionate and driven junior full-stack developer with a proven track record of delivering high-quality projects, despite limited formal experience.
+- Eager to learn and contribute to challenging projects, consistently exceeding expectations in delivering functional and well-structured applications.
+- Proficient in a range of technologies, including Java, Spring Boot, Angular, and PostgreSQL.  
+- Dedicated to continuous learning and improvement, actively seeking opportunities to expand my skillset and stay up-to-date with the latest industry trends.
+- Committed to delivering exceptional results and exceeding client expectations through clear communication, efficient problem-solving, and meticulous attention to detail.
 </details>
 
 <details>
@@ -57,6 +58,7 @@ const matheus = {
 - CI/CD pipeline implementation
 - Monitoring and logging
 </details>
+
 
 ## 📈 Key Achievements
 
