@@ -25,12 +25,32 @@ const matheus = {
 
 ![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
 
-## 🚀 Let's Collaborate! (Freelance Opportunities)
-
-**I'm actively seeking exciting freelance projects where I can contribute my full-stack development skills and passion for building innovative applications.  If you're looking for a dedicated and results-oriented developer to bring your vision to life, I'd love to hear from you!**
+## 🤝 Let's Create Something Amazing Together!
 
 <div align="center">
-  <a href="mailto:math.francisco2@gmail.com" style="background-color:#2E9FD1;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Discuss Your Project</a> &nbsp;  &nbsp; <a href="YOUR_LINKEDIN_PROFILE" style="background-color:#0077B5;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Connect on LinkedIn</a>
+  <h3>Looking for a dedicated Full-Stack Developer to bring your ideas to life? 🎯</h3>
+  
+  ![Freelance Badge](https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=rocket&logoColor=white)
+  ![Remote Work](https://img.shields.io/badge/Remote-Worldwide-blue?style=for-the-badge&logo=zoom&logoColor=white)
+</div>
+
+I specialize in building scalable, innovative solutions that deliver real business value. With expertise in both frontend and backend development, I can help you:
+
+- 🌟 Transform your ideas into powerful applications
+- ⚡ Optimize performance and user experience
+- 🛠️ Implement robust, scalable architectures
+- 🚀 Launch your product quickly and efficiently
+
+<div align="center">
+  <h3>Ready to discuss your project? Let's connect!</h3>
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco-1a33381b3/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mathfrancisco.netlify.app)
+</div>
+
+<div align="center">
+  <sub>💬 Free consultation available to discuss your project requirements</sub>
 </div>
 
 <br>
