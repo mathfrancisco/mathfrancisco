@@ -25,39 +25,117 @@ const matheus = {
 
 ![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
 
-## 💼 Professional Experience
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on, showcasing my skills and experience in full-stack development:
+
+---
 
 <details>
-<summary><b>Junior Freelance Full-Stack Developer</b></summary>
+<summary><b>Nexus AI - Social Media Metrics Analysis Platform</b></summary>
 
-- Passionate and driven junior full-stack developer with a proven track record of delivering high-quality projects, despite limited formal experience.
-- Eager to learn and contribute to challenging projects, consistently exceeding expectations in delivering functional and well-structured applications.
-- Proficient in a range of technologies, including Java, Spring Boot, Angular, and PostgreSQL.  
-- Dedicated to continuous learning and improvement, actively seeking opportunities to expand my skillset and stay up-to-date with the latest industry trends.
-- Committed to delivering exceptional results and exceeding client expectations through clear communication, efficient problem-solving, and meticulous attention to detail.
+Nexus AI empowers users to analyze social media performance, track trends, and benchmark against competitors.  Interactive visualizations and actionable insights help optimize marketing strategies and maximize ROI.
+
+**Key Features:**
+
+* Performance Metrics Tracking (followers, engagement, etc.)
+* Interactive Data Visualization
+* ROI Analysis
+* Modern & Intuitive UI
+
+**Tech Stack:** Angular 18, TypeScript, Java 17, Spring Boot, PostgreSQL, and more.
+
+**Impact:** Provides users with a comprehensive tool to understand and improve their social media performance.
+
+[View Project](link-to-nexus-ai-repo)
 </details>
+
+
+---
 
 <details>
-<summary><b>Technical Skills</b></summary>
+<summary><b>Clinica Estetica - Management System for Beauty Clinics</b></summary>
 
-### Backend Development
-- Java/Spring Boot expertise
-- RESTful API design
-- Microservices architecture
-- Performance optimization
+A full-stack management system for beauty clinics, featuring appointment scheduling, staff management, procedure tracking, and a notification system.
 
-### Frontend Development
-- Angular applications
-- Responsive design
-- State management
-- Modern UI/UX implementation
+**Key Features:**
 
-### DevOps
-- AWS cloud infrastructure
-- Docker containerization
-- CI/CD pipeline implementation
-- Monitoring and logging
+* Appointment Management
+* Staff and Procedure Management
+* Automated Notifications
+
+**Tech Stack:** Spring Boot, Angular, PostgreSQL, JavaMailSender, and more.
+
+**Impact:** Streamlines clinic operations and improves client communication.
+
+[View Project](link-to-clinica-estetica-repo)
 </details>
+
+---
+
+
+<details>
+<summary><b>LiveChat-App - Real-time Chat Application</b></summary>
+
+A robust and scalable real-time chat application with group and private messaging capabilities.
+
+**Key Features:**
+
+* Real-time Communication via WebSockets
+* Group and Private Chat
+* Responsive Design
+* File Sharing (Images and PDFs)
+* Screen Sharing
+
+**Tech Stack:** Java, Spring Boot, Angular, TypeScript, RxJS, and more.
+
+**Impact:** Enables seamless and efficient communication for users across different devices.
+
+[View Project](link-to-livechat-app-repo)
+</details>
+
+---
+
+<details>
+<summary><b>TaskManager - Task Management Application</b></summary>
+
+An application for organizing and managing tasks, featuring user authentication, project management, and a user-friendly interface.
+
+**Key Features:**
+
+* Task Creation, Editing, and Management
+* User Authentication and Authorization
+* Project Management
+
+**Tech Stack:** Java, Spring Boot, Angular, MySQL, Docker, Terraform, AWS Elastic Beanstalk, and more.
+
+**Impact:** Helps users efficiently organize and manage their tasks and projects.
+
+[View Project](link-to-taskmanager-repo)
+</details>
+
+---
+
+<details>
+<summary><b>URL Shortener APIs (Multiple Implementations)</b></summary>
+
+Developed multiple URL shortening APIs using different technologies and databases (MySQL, MongoDB) to explore various approaches to URL shortening and redirection.  These projects demonstrate my ability to adapt to different tech stacks and solve the same problem using various methods.
+
+**Key Features:**
+
+* URL Shortening and Redirection
+* Link Listing and Management
+
+**Tech Stacks:** Java, Spring Boot, Angular, Docker, MySQL, MongoDB, Nginx, AWS EC2.
+
+**Impact:** Provides efficient and scalable URL shortening solutions.
+
+[View Project 1 - MySQL](link-to-url-shortener-mysql-repo)
+[View Project 2 - MongoDB](link-to-url-shortener-mongodb-repo)
+</details>
+
+
+---
 
 
 ## 📈 Key Achievements
