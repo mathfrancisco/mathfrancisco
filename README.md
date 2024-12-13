@@ -25,6 +25,27 @@ const matheus = {
 
 ![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
 
+## 🚀 Let's Collaborate! (Freelance Opportunities)
+
+I'm actively seeking exciting freelance projects where I can contribute my full-stack development skills and passion for building innovative applications.  If you're looking for a dedicated and results-oriented developer to bring your vision to life, I'd love to hear from you!
+
+<div align="center">
+  <a href="mailto:math.francisco2@gmail.com" style="background-color:#2E9FD1;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Discuss Your Project</a> &nbsp;  &nbsp; <a href="YOUR_LINKEDIN_PROFILE" style="background-color:#0077B5;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Connect on LinkedIn</a>
+</div>
+
+<br>
+
+## 📈 Key Achievements
+
+- **Full-Stack Project Delivery:** Successfully launched multiple full-stack applications, including a social media analytics platform, clinic management system, and real-time chat application.  Always delivered on time and within scope.
+- **Feature Implementation:** Built key features like real-time communication (WebSockets), interactive data visualizations, and secure user authentication.
+- **Performance Optimization:**  Improved app speed and responsiveness through optimized data loading and database queries.
+- **Bug Resolution:** Proactively identified and squashed critical bugs, ensuring smooth user experiences.
+- **Tech Integration:**  Seamlessly integrated diverse technologies, including Spring Boot, Angular, various databases, and AWS cloud services.
+- **Problem Solver:**  Tackled complex challenges in data processing, real-time communication, and UI/UX design.
+- **Positive Feedback:** Consistently received positive client feedback on project quality and usability.
+
+
 ## 🚀 Featured Projects
 
 Here are some of the projects I've worked on, showcasing my skills and experience in full-stack development:
@@ -136,17 +157,6 @@ Developed multiple URL shortening APIs using different technologies and database
 
 
 ---
-
-
-## 📈 Key Achievements
-
-- **Full-Stack Project Delivery:** Successfully launched multiple full-stack applications, including a social media analytics platform, clinic management system, and real-time chat application.  Always delivered on time and within scope.
-- **Feature Implementation:** Built key features like real-time communication (WebSockets), interactive data visualizations, and secure user authentication.
-- **Performance Optimization:**  Improved app speed and responsiveness through optimized data loading and database queries.
-- **Bug Resolution:** Proactively identified and squashed critical bugs, ensuring smooth user experiences.
-- **Tech Integration:**  Seamlessly integrated diverse technologies, including Spring Boot, Angular, various databases, and AWS cloud services.
-- **Problem Solver:**  Tackled complex challenges in data processing, real-time communication, and UI/UX design.
-- **Positive Feedback:** Consistently received positive client feedback on project quality and usability.
 
 
 ## 🎓 Certifications & Training
