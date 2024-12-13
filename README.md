@@ -1,27 +1,52 @@
 <div align="center">
 
-# Matheus Francisco
+# 👨‍💻 Matheus Francisco
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;Solution+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Architect;Cloud+Solutions+Engineer)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+[![Profile Views](https://komarev.com/ghpvc/?username=mathfrancisco&color=blue&style=flat-square)](https://github.com/mathfrancisco)
+[![Years Badge](https://badges.pufler.dev/years/mathfrancisco)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/mathfrancisco)](https://badges.pufler.dev)
+
+![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-## 👨‍💻 About Me
+## 💫 About Me
 
 ```javascript
 const matheus = {
-    role: "Full Stack Developer",
+    role: "Full Stack Developer & Solution Architect",
     location: "São Paulo, BR",
     available: true,
+    expertise: ["Web Development", "Cloud Architecture", "System Design"],
     technologies: {
-        frontend: ["Angular", "TypeScript", "HTML5/CSS3"],
-        backend: ["Java", "Spring Boot", "Node.js"],
-        database: ["PostgreSQL", "MongoDB"],
-        devOps: ["Docker", "AWS", "CI/CD"]
-    }
- ```
+        frontend: {
+            frameworks: ["Angular", "React"],
+            languages: ["TypeScript", "JavaScript"],
+            styling: ["CSS3", "SASS", "Bootstrap"]
+        },
+        backend: {
+            java: ["Spring Boot", "Spring Cloud", "Hibernate"],
+            nodejs: ["Express", "NestJS"],
+            apis: ["REST", "WebSocket"]
+        },
+        database: {
+            sql: ["PostgreSQL", "MySQL"],
+            nosql: ["MongoDB", "Redis"],
+            orm: ["JPA"]
+        },
+        devOps: {
+            cloud: ["AWS", "GCP"],
+            containers: ["Docker", "Kubernetes"],
+            ci_cd: ["Jenkins", "GitHub Actions"],
+            monitoring: ["Prometheus"]
+        }
+    },
+    currentFocus: "Building scalable and innovative solutions",
+    funFact: "I love turning coffee into code! ☕"
+}
+```
 
 ![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
 
