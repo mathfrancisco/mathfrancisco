@@ -2,10 +2,6 @@
 
 # Matheus Francisco
 
-
-
-![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;Solution+Architect)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -26,6 +22,8 @@ const matheus = {
         devOps: ["Docker", "AWS", "CI/CD"]
     }
  ```
+
+![giphy](https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a)
 
 ## 💼 Professional Experience
 
