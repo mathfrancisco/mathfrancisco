@@ -140,13 +140,13 @@ Developed multiple URL shortening APIs using different technologies and database
 
 ## 📈 Key Achievements
 
-- 🚀 Delivered [Number] projects on time & budget.
-- 🛠️ Implemented key features, improving [Specific area - e.g., user engagement, workflow].
-- ⏱️ Reduced app load times by [Percentage or time].
-- 🐞 Resolved [Number] critical bugs.
-- 🔗 Integrated [Technologies or tools] into projects.
-- 💡 Solved [Specific problem] effectively.
-- 👍 Received positive client feedback on [Specific aspects].
+- **Full-Stack Project Delivery:** Successfully launched multiple full-stack applications, including a social media analytics platform, clinic management system, and real-time chat application.  Always delivered on time and within scope.
+- **Feature Implementation:** Built key features like real-time communication (WebSockets), interactive data visualizations, and secure user authentication.
+- **Performance Optimization:**  Improved app speed and responsiveness through optimized data loading and database queries.
+- **Bug Resolution:** Proactively identified and squashed critical bugs, ensuring smooth user experiences.
+- **Tech Integration:**  Seamlessly integrated diverse technologies, including Spring Boot, Angular, various databases, and AWS cloud services.
+- **Problem Solver:**  Tackled complex challenges in data processing, real-time communication, and UI/UX design.
+- **Positive Feedback:** Consistently received positive client feedback on project quality and usability.
 
 
 ## 🎓 Certifications & Training
