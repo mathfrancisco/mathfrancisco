@@ -174,8 +174,8 @@ Developed multiple URL shortening APIs using different technologies and database
 ## 📱 Contact Information
 
 - 📧 [math.francisco2@gmail.com](mailto:math.francisco2@gmail.com)
-- 🔗 [LinkedIn Profile](YOUR_LINKEDIN_PROFILE)
-- 💼 [Portfolio Website](YOUR_PORTFOLIO_WEBSITE)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/matheus-francisco-1a33381b3/)
+- 💼 [Portfolio Website](mathfrancisco.netlify.app)
 
 ---
 
