@@ -27,7 +27,7 @@ const matheus = {
 
 ## 🚀 Let's Collaborate! (Freelance Opportunities)
 
-I'm actively seeking exciting freelance projects where I can contribute my full-stack development skills and passion for building innovative applications.  If you're looking for a dedicated and results-oriented developer to bring your vision to life, I'd love to hear from you!
+**I'm actively seeking exciting freelance projects where I can contribute my full-stack development skills and passion for building innovative applications.  If you're looking for a dedicated and results-oriented developer to bring your vision to life, I'd love to hear from you!**
 
 <div align="center">
   <a href="mailto:math.francisco2@gmail.com" style="background-color:#2E9FD1;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Discuss Your Project</a> &nbsp;  &nbsp; <a href="YOUR_LINKEDIN_PROFILE" style="background-color:#0077B5;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Connect on LinkedIn</a>
