@@ -161,7 +161,7 @@ Revolutionizing clinic management with smart scheduling and automated workflows.
 
 **💫 Impact:** Reduced scheduling conflicts by 95% and improved client satisfaction rates.
 
-[🔗 View Project](link-to-project) · [📱 Live Demo](link-to-demo)
+[🔗 View Project](https://nexus-ia.netlify.app/) · [📱 Live Demo](https://nexus-ia.netlify.app/)
 </details>
 
 <details>
