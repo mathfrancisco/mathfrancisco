@@ -2,10 +2,9 @@
 
 # 👨‍💻 Matheus Francisco
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Architect;Cloud+Solutions+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+about+Technology;Always+Learning)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mathfrancisco&color=blue&style=flat-square)](https://github.com/mathfrancisco)
-[![Years Badge](https://badges.pufler.dev/years/mathfrancisco)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/mathfrancisco)](https://badges.pufler.dev)
 
 ![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
