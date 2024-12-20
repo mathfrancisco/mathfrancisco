@@ -312,13 +312,6 @@ A platform that connects job seekers and companies intuitively.
 * 💻 **Problem Solving:**  Adept at identifying and resolving technical challenges with creative and effective solutions.
 * ⚡ **Fast Learner:** Eager to explore and master new technologies to stay at the forefront of the ever-evolving software development landscape.  Currently focused on expanding my knowledge of cloud technologies (AWS) and microservices architecture.
 
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco-1a33381b3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mathfrancisco.netlify.app)
 
 ## 💼 Professional Status & Availability
 
