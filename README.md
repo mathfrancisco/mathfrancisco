@@ -320,41 +320,34 @@ A platform that connects job seekers and companies intuitively.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco-1a33381b3/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mathfrancisco.netlify.app)
 
-### 💼 Professional Status
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Projects-success?style=for-the-badge&logo=openproject&logoColor=white)
-![Location](https://img.shields.io/badge/Location-São_Paulo,_BR-blue?style=for-the-badge&logo=google-maps&logoColor=white)
+## 💼 Professional Status & Availability
+
+<div align="center">
+
+### Current Status
+![Open to Work](https://img.shields.io/badge/Status-Available_for_Projects-22C55E?style=for-the-badge&logo=headspace&logoColor=white)
+![Response Time](https://img.shields.io/badge/Response_Time-24h-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+
+### Location & Preferences
+![Location](https://img.shields.io/badge/📍_São_Paulo,_BR-blue?style=for-the-badge)
+![Time Zone](https://img.shields.io/badge/🕒_GMT--3-4A5568?style=for-the-badge)
+
+### Work Model
+![Remote](https://img.shields.io/badge/Remote_Work-Available-3B82F6?style=for-the-badge&logo=zoom&logoColor=white)
+![Work Type](https://img.shields.io/badge/Full--Time_|_Freelance-22C55E?style=for-the-badge&logo=buffer&logoColor=white)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
+  <strong>Let's create something amazing together!</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
+</div>
+
+[![Contact Me](https://img.shields.io/badge/Start_a_Project-2E9FD1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌟 Current Availability
-
-![Status](https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=statuspage&logoColor=white)
-![Response Time](https://img.shields.io/badge/Response_Time-24h-orange?style=for-the-badge&logo=clockify&logoColor=white)
-
-### 💼 Preferred Work Model
-
-![Remote](https://img.shields.io/badge/Remote-Worldwide-blue?style=for-the-badge&logo=zoom&logoColor=white)
-![Freelance](https://img.shields.io/badge/Freelance-Available-green?style=for-the-badge&logo=freelancer&logoColor=white)
-![Time Zone](https://img.shields.io/badge/Time_Zone-GMT--3-purple?style=for-the-badge&logo=clockify&logoColor=white)
-
-### 🤝 Work Preferences
-
-![Project Type](https://img.shields.io/badge/Projects-Short_&_Long_Term-blue?style=for-the-badge&logo=target&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Team_Size-Solo_&_Team-green?style=for-the-badge&logo=people&logoColor=white)
-
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
-  <i>Let's build something extraordinary together!</i>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
-</h3>
-
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Start_a_Project-2E9FD1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
-
 ![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
-</div>
 
