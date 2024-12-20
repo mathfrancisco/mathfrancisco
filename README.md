@@ -29,6 +29,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+</div>
 
 <div align="center">
   <img src="https://github.com/mathfrancisco/mathfrancisco/assets/81334745/05505afe-8cb6-44ca-b299-0e11d2bf7e6a" alt="Coding Animation" width="500px">
@@ -242,53 +243,74 @@ Version 2 (NoSQL):
 
 [🔗 MySQL Version](link-to-mysql-project) · [🔗 MongoDB Version](link-to-mongodb-project)
 </details>
+<details>
+<summary><h3>💼 Jobify - Job Platform</h3></summary>
+
+[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)](https://github.com/yourusername/jobify)
+
+A platform that connects job seekers and companies intuitively.
+
+**🎯 Features:**
+- 🔍 Job Search
+- 📝 Resume Submission
+- 💼 Company Profiles
+- 📊 Application Dashboard
+
+**🛠️ Tech Stack:**  Angular, TypeScript, Tailwind CSS, Java, Spring Boot, PostgreSQL
+
+**🚀 Impact:** Aims to streamline the job search process and improve the connection between candidates and companies.
+
+[🔗 View Project](https://github.com/yourusername/jobify) · [📱 Live Demo](your-live-demo-link)
+</details>
+
 
 ---
 
 <div align="center">
 
-## 🌟 Project Highlights
-
-![Total Projects](https://img.shields.io/badge/Total_Projects-5+-success?style=for-the-badge&logo=github&logoColor=white)
-![Technologies Used](https://img.shields.io/badge/Technologies-15+-blue?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Success Rate](https://img.shields.io/badge/Success_Rate-100%25-green?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-### 👀 Interested in seeing more of my work?
-
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2E9FD1?style=for-the-badge&logo=github&logoColor=white)](https://mathfrancisco.netlify.app)
-[![GitHub](https://img.shields.io/badge/Check_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
-
-### 💡 Have a project in mind?
-
-[![Let's Talk](https://img.shields.io/badge/Let's_Discuss_Your_Project-2E9FD1?style=for-the-badge&logo=googlechat&logoColor=white)](mailto:math.francisco2@gmail.com)
-
+## 🚀 Project Highlights
 </div>
-
-
-## 📊 GitHub Metrics & Impact
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical&hide_border=true)
+[![Total Projects](https://img.shields.io/badge/Total_Projects-2+-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
+[![Technologies Used](https://img.shields.io/badge/Technologies-10%2B-blue?style=for-the-badge&logo=stack-overflow&logoColor=white)](#tech-stack)  <!-- Link to Tech Stack section -->
+[![Open Source Contributions](https://img.shields.io/badge/Open_Source-Contributions-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/mathfrancisco/your-open-source-repo)  <!-- If applicable -->
 
-[![GitHub Activity](https://img.shields.io/badge/Always-Contributing-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
+
+**Interested in seeing more of my work?**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-brightgreen?style=for-the-badge&logo=dribbble&logoColor=white)](https://mathfrancisco.netlify.app)
+[![GitHub](https://img.shields.io/badge/Check_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
+
+
+**Have a project in mind?  Let's connect!**
+
+<br/>
+
+[![Let's Talk](https://img.shields.io/badge/Discuss_Your_Project-blue?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:math.francisco2@gmail.com)
+
 </div>
+</div>
+
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/mathfrancisco)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical&hide_border=true)](https://github.com/mathfrancisco)
+</div>
+
 
 ## 🎯 Core Competencies
 
-<div align="center">
-
-![Architecture](https://img.shields.io/badge/Architecture-Microservices_|_Cloud_Native-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Development](https://img.shields.io/badge/Development-Full_Stack_|_Scalable_Systems-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![Optimization](https://img.shields.io/badge/Expertise-Performance_|_Best_Practices-green?style=for-the-badge&logo=speedtest&logoColor=white)
-
-</div>
-
-- 🏗️ **Architecture Design:** Microservices | Event-Driven | Cloud-Native
-- 🚀 **Performance:** Optimization | Scalability | High Availability
-- 💻 **Development:** Full Stack | Clean Code | Best Practices
-- ⚡ **Innovation:** Modern Solutions | Emerging Technologies
+* 🚀 **Full-Stack Development:** Proficient in both front-end and back-end technologies, allowing me to develop complete web applications.
+* 🏗️ **Software Design:**  Focused on creating clean, maintainable, and efficient code using best practices and design patterns.
+* 💻 **Problem Solving:**  Adept at identifying and resolving technical challenges with creative and effective solutions.
+* ⚡ **Fast Learner:** Eager to explore and master new technologies to stay at the forefront of the ever-evolving software development landscape.  Currently focused on expanding my knowledge of cloud technologies (AWS) and microservices architecture.
 
 ## 📫 Let's Connect
 
