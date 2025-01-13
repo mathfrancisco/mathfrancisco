@@ -175,8 +175,9 @@ Revolutionizing clinic management with smart scheduling and automated workflows.
 
 ## 📊 GitHub Metrics
 
-<div align="center">
+## 📊 GitHub Metrics
 
+<div align="center">
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/mathfrancisco)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical&hide_border=true)](https://github.com/mathfrancisco)
 </div>
