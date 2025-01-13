@@ -109,6 +109,14 @@ I specialize in building scalable, innovative solutions that deliver real busine
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical&hide_border=true" />
 </div>
 
+<details>
+<summary>📊 Detailed GitHub Statistics</summary>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathfrancisco&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathfrancisco&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathfrancisco&theme=radical" />
+</details>
+
 ## 🏆 Key Achievements
 
 ![Projects Completed](https://img.shields.io/badge/Projects_Completed-10+-success?style=flat-square&logo=checkmarx&logoColor=white)
