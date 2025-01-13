@@ -102,6 +102,13 @@ I specialize in building scalable, innovative solutions that deliver real busine
 
 <br>
 
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical&hide_border=true" />
+</div>
+
 ## 🏆 Key Achievements
 
 ![Projects Completed](https://img.shields.io/badge/Projects_Completed-10+-success?style=flat-square&logo=checkmarx&logoColor=white)
@@ -143,11 +150,34 @@ Revolutionizing clinic management with smart scheduling and automated workflows.
 
 ---
 
-## 📊 GitHub Metrics
 
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathfrancisco&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/mathfrancisco)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathfrancisco&layout=compact&theme=radical&hide_border=true)](https://github.com/mathfrancisco)
+
+## 🚀 Project Highlights
+</div>
+
+<div align="center">
+
+[![Total Projects](https://img.shields.io/badge/Total_Projects-2+-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
+[![Technologies Used](https://img.shields.io/badge/Technologies-10%2B-blue?style=for-the-badge&logo=stack-overflow&logoColor=white)](#tech-stack)  <!-- Link to Tech Stack section -->
+[![Open Source Contributions](https://img.shields.io/badge/Open_Source-Contributions-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/mathfrancisco/your-open-source-repo)  <!-- If applicable -->
+
+
+**Interested in seeing more of my work?**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-brightgreen?style=for-the-badge&logo=dribbble&logoColor=white)](https://mathfrancisco.netlify.app)
+[![GitHub](https://img.shields.io/badge/Check_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
+
+
+**Have a project in mind?  Let's connect!**
+
+<br/>
+
+[![Let's Talk](https://img.shields.io/badge/Discuss_Your_Project-blue?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:math.francisco2@gmail.com)
+
+</div>
 </div>
 
 
