@@ -173,7 +173,6 @@ Revolutionizing clinic management with smart scheduling and automated workflows.
 </div>
 
 
-## 📊 GitHub Metrics
 
 ## 📊 GitHub Metrics
 
