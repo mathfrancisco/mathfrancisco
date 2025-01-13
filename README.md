@@ -143,37 +143,6 @@ Revolutionizing clinic management with smart scheduling and automated workflows.
 
 ---
 
-<div align="center">
-
-## 🚀 Project Highlights
-</div>
-
-<div align="center">
-
-[![Total Projects](https://img.shields.io/badge/Total_Projects-2+-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
-[![Technologies Used](https://img.shields.io/badge/Technologies-10%2B-blue?style=for-the-badge&logo=stack-overflow&logoColor=white)](#tech-stack)  <!-- Link to Tech Stack section -->
-[![Open Source Contributions](https://img.shields.io/badge/Open_Source-Contributions-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/mathfrancisco/your-open-source-repo)  <!-- If applicable -->
-
-
-**Interested in seeing more of my work?**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-brightgreen?style=for-the-badge&logo=dribbble&logoColor=white)](https://mathfrancisco.netlify.app)
-[![GitHub](https://img.shields.io/badge/Check_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco)
-
-
-**Have a project in mind?  Let's connect!**
-
-<br/>
-
-[![Let's Talk](https://img.shields.io/badge/Discuss_Your_Project-blue?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:math.francisco2@gmail.com)
-
-</div>
-</div>
-
-
-
 ## 📊 GitHub Metrics
 
 <div align="center">
