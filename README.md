@@ -117,17 +117,24 @@ I specialize in building scalable, innovative solutions that deliver real busine
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathfrancisco&theme=radical" />
 </details>
 
-## 🏆 Key Achievements
+## 🎯 Core Competencies & Achievements
 
 ![Projects Completed](https://img.shields.io/badge/Projects_Completed-10+-success?style=flat-square&logo=checkmarx&logoColor=white)
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfaction-100%25-blue?style=flat-square&logo=trustpilot&logoColor=white)
 
+### 🏆 Key Professional Highlights
 - 🚀 **Full-Stack Excellence:** Architected and delivered multiple enterprise-grade applications, from concept to deployment
 - 💡 **Innovation Leader:** Pioneered real-time features and interactive visualizations that transformed user experiences
 - ⚡ **Performance Wizard:** Achieved significant performance improvements through strategic optimizations
 - 🛠️ **Technical Integration:** Mastered diverse tech stacks and seamlessly integrated complex systems
 - 🎯 **Problem Solver:** Consistently delivered elegant solutions to complex technical challenges
 - 🤝 **Client Success:** Maintained perfect client satisfaction through clear communication and quality delivery
+
+### 💪 Core Technical Strengths
+- 🚀 **Full-Stack Development:** Proficient in both front-end and back-end technologies, allowing me to develop complete web applications
+- 🏗️ **Software Design:** Focused on creating clean, maintainable, and efficient code using best practices and design patterns
+- 💻 **Problem Solving:** Adept at identifying and resolving technical challenges with creative and effective solutions
+- ⚡ **Fast Learner:** Eager to explore and master new technologies to stay at the forefront of the ever-evolving software development landscape. Currently focused on expanding my knowledge of cloud technologies (AWS) and microservices architecture
 
 
 ## 💼 Featured Project
@@ -241,14 +248,6 @@ graph TD
 
 </div>
 </div>
-
-
-## 🎯 Core Competencies
-
-* 🚀 **Full-Stack Development:** Proficient in both front-end and back-end technologies, allowing me to develop complete web applications.
-* 🏗️ **Software Design:**  Focused on creating clean, maintainable, and efficient code using best practices and design patterns.
-* 💻 **Problem Solving:**  Adept at identifying and resolving technical challenges with creative and effective solutions.
-* ⚡ **Fast Learner:** Eager to explore and master new technologies to stay at the forefront of the ever-evolving software development landscape.  Currently focused on expanding my knowledge of cloud technologies (AWS) and microservices architecture.
 
 
 ## 💼 Professional Status & Availability
