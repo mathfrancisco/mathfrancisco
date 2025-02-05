@@ -79,6 +79,7 @@ const matheus = {
     currentFocus: "Building scalable and innovative solutions",
     funFact: "I love turning coffee into code! ☕"
 }
+
 ```
 
 ## 🤝 Let's Create Something Amazing Together!
@@ -133,12 +134,12 @@ I specialize in building scalable, innovative solutions that deliver real busine
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfaction-100%25-blue?style=flat-square&logo=trustpilot&logoColor=white)
 
 ### 🏆 Key Professional Highlights
-- 🚀 **Full-Stack Excellence:** Architected and delivered multiple enterprise-grade applications, from concept to deployment
-- 💡 **Innovation Leader:** Pioneered real-time features and interactive visualizations that transformed user experiences
-- ⚡ **Performance Wizard:** Achieved significant performance improvements through strategic optimizations
-- 🛠️ **Technical Integration:** Mastered diverse tech stacks and seamlessly integrated complex systems
-- 🎯 **Problem Solver:** Consistently delivered elegant solutions to complex technical challenges
-- 🤝 **Client Success:** Maintained perfect client satisfaction through clear communication and quality delivery
+- 🚀 **Full-Stack Expertise:** Designed and deployed enterprise-grade applications from scratch.
+- 💡 **Innovative Thinker:** Developed real-time features that enhanced user engagement.
+- ⚡ **Performance Optimization:** Improved system efficiency through strategic optimizations.
+- 🛠️ **Seamless Integrations:** Integrated diverse tech stacks for robust solutions.
+- 🎯 **Problem Solver:** Delivered elegant solutions to complex technical challenges.
+
 
 ### 💪 Core Technical Strengths
 - 🚀 **Full-Stack Development:** Proficient in both front-end and back-end technologies, allowing me to develop complete web applications
@@ -237,8 +238,9 @@ graph TD
 
 <div align="center">
 
-### Current Status
-![Open to Work](https://img.shields.io/badge/Status-Available_for_Projects-22C55E?style=for-the-badge&logo=headspace&logoColor=white)
+📢 **Currently open for new opportunities!**  
+Whether you're looking for a **full-time developer, freelancer, or consultant**, I'm ready to help bring your ideas to life.
+
 ![Response Time](https://img.shields.io/badge/Response_Time-24h-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
 
 ### Location & Preferences
