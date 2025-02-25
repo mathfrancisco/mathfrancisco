@@ -223,8 +223,8 @@ graph TD
 - 🔄 99.9% system uptime
 
 ### 🔗 Links
-[![View Demo](https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexus-ia.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco/nexus)
+[![View Demo](https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://nexus-ia.netlify.app/](https://www.triosense.studio/#/home))
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/mathfrancisco/nexus](https://www.triosense.studio/#/home))
 [![Documentation](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.project.com)
 </details>
 
