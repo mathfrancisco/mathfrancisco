@@ -36,8 +36,8 @@
 
 #### Frontend Development
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -95,7 +95,7 @@ const matheus: Developer = {
 // Core Competencies
 const expertise = {
   frontend: {
-    frameworks: ["Angular", "React", "Vue.js"],
+    frameworks: ["React", "Next.js", "Vue.js"],
     languages: ["TypeScript", "JavaScript", "HTML5", "CSS3"],
     tools: ["Webpack", "Vite", "SASS", "TailwindCSS"]
   },
@@ -172,7 +172,7 @@ const expertise = {
 
 #### 🛠️ **Technical Implementation**
 
-- **Frontend:** Angular 16, TypeScript, Material Design
+- **Frontend:** React 18, TypeScript, Material-UI
 - **Backend:** Spring Boot, Spring Security, PostgreSQL
 - **Cloud:** AWS (EC2, RDS, S3), Docker containers
 - **Features:** Real-time notifications, advanced analytics, mobile responsive
@@ -200,7 +200,7 @@ Complete management solution for small to medium businesses with inventory contr
 
 Modern, responsive portfolio website with integrated blog and contact system, featuring custom CMS and analytics.
 
-**Tech Stack:** Angular, Spring Boot, MongoDB  
+**Tech Stack:** React, Spring Boot, MongoDB  
 **Impact:** Professional online presence, lead generation
 
 -----
@@ -230,7 +230,7 @@ Modern, responsive portfolio website with integrated blog and contact system, fe
 ### 🏆 **Completed**
 
 ![Java Certification](https://img.shields.io/badge/Java-Certified-success?style=for-the-badge&logo=oracle&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Certified-red?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-Certified-blue?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
