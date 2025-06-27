@@ -301,8 +301,6 @@ I specialize in delivering **high-quality digital solutions** that solve real-wo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-**Built with ❤️ by Matheus Francisco**
-
 *Last updated: June 2025*
 
 </div>
