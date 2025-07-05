@@ -68,47 +68,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Developer Profile
-
-<div align="center">
-<table width="100%">
-<tr>
-<td align="center">
-
-```typescript
-const developerProfile = {
-  currentRole: "Software Engineering Intern @ CI&T",
-  project: "Pharmaceutical Industry Solutions",
-  experience: "1.6 years",
-  location: "São Paulo, Brazil (UTC-3)",
-  
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Java", "Spring Boot", "Node.js", "Express"],
-    database: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-    cloud: ["AWS", "Docker", "Vercel", "Netlify"],
-    tools: ["Git", "Docker", "Jenkins", "Postman", "Figma"]
-  },
-  
-  architecture: {
-    patterns: ["MVC", "REST APIs", "Clean Architecture"],
-    practices: ["TDD", "Code Review", "Git Flow"],
-    methodologies: ["Agile", "Scrum", "Kanban"]
-  },
-  
-  languages: ["Portuguese", "English", "Spanish"],
-  availability: "Freelance projects welcome",
-  remote: true
-};
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 Core Competencies
 
 <div align="center">
@@ -171,43 +130,6 @@ const developerProfile = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathfrancisco&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Learning Journey
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🏆 **Achieved**
-
-![Java](https://img.shields.io/badge/Oracle_Java-Certified-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
-![React](https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-</td>
-<td width="33%" align="center">
-
-### 📚 **In Progress**
-
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-Studying-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-Learning-purple?style=for-the-badge&logo=database&logoColor=white)
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 **Next Goals**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA_Track-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Professional-Target-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
