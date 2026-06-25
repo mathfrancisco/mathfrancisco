@@ -89,7 +89,7 @@ CHANNELS        WhatsApp · SMS · Voice AI
 SYSTEM          Python · Flask · GCP · RAG · PostgreSQL · Docker
 ```
 
-At Surecred, I own end-to-end delivery across a full-stack platform for
+At the moment I own end-to-end delivery across a full-stack platform for
 automated credit recovery. I work across product interfaces, backend
 architecture, model behavior, messaging providers, voice integrations,
 multi-tenant data and the operational tooling required to understand and
