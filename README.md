@@ -2,18 +2,25 @@
 
 # Matheus Francisco
 
-### AI Engineer with a Full-Stack Foundation
+### Full-Stack AI Engineer
 
-**Conversational AI · Distributed Systems · Cloud-Native Applications**
+**I build production AI platforms from user interface to model behavior,
+infrastructure and observability.**
 
-<a href="https://git.io/typing-svg">
+`Conversational AI` · `Distributed Systems` · `Cloud-Native SaaS`
+
+<a href="./assets/ai-system-flow.svg" title="Open the production AI system flow">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3400&pause=1100&color=C9A227&center=true&vCenter=true&width=760&lines=Building+production+LLM+agents;Making+AI+observable+and+operable;Connecting+models%2C+backend%2C+cloud+and+product"
-    alt="Typing animation describing Matheus Francisco's engineering focus"
+    src="./assets/ai-system-flow.svg"
+    width="900"
+    alt="Animated production AI flow from channel input through context, LLM reasoning, tools and an observable outcome"
   />
 </a>
 
+<sub>Channel → context → reasoning → tools → observable outcome</sub>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-matheus.dev-C9A227?style=flat-square)](https://matheus.dev)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-8C6F1C?style=flat-square&logo=readme&logoColor=white)](<./Curriculo_Matheus_Francisco_En (1).pdf>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Francisco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco0/)
 [![Email](https://img.shields.io/badge/Email-math.francisco2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
 [![Location](https://img.shields.io/badge/São_Paulo-Brazil_·_Remote-2F8F5B?style=flat-square)](#)
@@ -24,27 +31,113 @@
 
 ## Production impact
 
+```mermaid
+flowchart TB
+    Impact([Product and engineering impact])
+
+    Impact --> C0
+    Impact --> S0
+    Impact --> G0
+
+    subgraph Current["SURECRED · FULL-STACK CONVERSATIONAL AI"]
+        direction LR
+        C0["Multi-channel platform"]
+        C1["WhatsApp · SMS · Voice"]
+        C2["RAG-grounded agents"]
+        C3["Multi-tenant SaaS"]
+        C0 --> C1
+        C0 --> C2
+        C0 --> C3
+    end
+
+    subgraph Scale["CI&T · GLOBAL PRODUCT SCALE"]
+        direction LR
+        S0["100K+ daily users"]
+        S1["30% smaller payloads"]
+        S2["70% → 92% test coverage"]
+        S3["25% fewer incidents"]
+        S0 --> S1
+        S0 --> S2
+        S0 --> S3
+    end
+
+    subgraph Growth["RECUPERA.IA · BUSINESS OUTCOMES"]
+        direction LR
+        G0["99.9% uptime"]
+        G1["45% higher lead response"]
+        G2["~$5K revenue recovered"]
+        G3["35% lower query latency"]
+        G0 --> G1
+        G0 --> G2
+        G0 --> G3
+    end
+```
+
 <div align="center">
 
-| **100K+** | **45%** | **35%** | **25%** |
-| :---: | :---: | :---: | :---: |
-| Daily users supported | Lead response uplift | Query latency reduction | Fewer production incidents |
+**AI delivery · product scale · measurable business outcomes**
 
 </div>
 
 ## What I am building now
 
 ```text
-ROLE            Software Engineer — Conversational AI
-PRODUCT         Multi-channel automated credit recovery
+ROLE            Full-Stack Software Engineer — Conversational AI
+PRODUCT         Multi-tenant conversational AI SaaS
+EXPERIENCE      Product UI · APIs · AI agents · data · cloud operations
 CHANNELS        WhatsApp · SMS · Voice AI
-SYSTEM          Python · GCP · LLM agents · RAG · PostgreSQL
+SYSTEM          Python · Flask · GCP · RAG · PostgreSQL · Docker
 ```
 
-At the moment I work on the end-to-end delivery of conversational AI systems.
-That includes model behavior, backend architecture, messaging providers, voice
-integrations, multi-tenant data and the tooling operators use to understand the
-automation.
+At Surecred, I own end-to-end delivery across a full-stack platform for
+automated credit recovery. I work across product interfaces, backend
+architecture, model behavior, messaging providers, voice integrations,
+multi-tenant data and the operational tooling required to understand and
+control the automation.
+
+```mermaid
+flowchart LR
+    Customer((Customer))
+
+    subgraph Channels
+        WA[WhatsApp]
+        SMS[SMS]
+        Voice[Voice AI]
+    end
+
+    subgraph Platform["Conversational AI platform"]
+        UI[Product + operator UI]
+        API[Platform APIs]
+        Gateway[Channel gateway]
+        Context[Context + tenant data]
+        Agent[LLM agent]
+        Guardrails[Policies + guardrails]
+        Tools[Business tools]
+    end
+
+    subgraph Operations
+        Data[(PostgreSQL / RAG)]
+        Observe[Logs, traces + evaluation]
+        Human[Human recovery path]
+    end
+
+    Customer --> WA
+    Customer --> SMS
+    Customer --> Voice
+    UI --> API
+    API --> Gateway
+    WA --> Gateway
+    SMS --> Gateway
+    Voice --> Gateway
+    Gateway --> Context --> Agent
+    Guardrails -. constrains .-> Agent
+    Agent <--> Data
+    Agent --> Tools --> Customer
+    Gateway --> Observe
+    Agent --> Observe
+    Tools --> Observe
+    Agent -. escalate .-> Human
+```
 
 > I treat the model as one component. Production trust comes from explicit
 > boundaries, observable decisions and recoverable paths around it.
@@ -54,16 +147,17 @@ automation.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Conversational and Voice AI</strong>
+      <strong>Full-stack AI platform</strong>
       <br /><br />
-      Shipped AI workflows across WhatsApp, SMS and voice, including an outbound
-      agent integrating ElevenLabs with SIP/BYOC telephony.
+      Own product interfaces, platform APIs, AI behavior, multi-tenant data and
+      cloud delivery for conversational credit recovery across WhatsApp, SMS
+      and voice.
     </td>
     <td width="50%" valign="top">
-      <strong>Grounded model behavior</strong>
+      <strong>Voice AI and grounded behavior</strong>
       <br /><br />
-      Implemented RAG over domain knowledge to improve response relevance and
-      reduce hallucinations in live collection flows.
+      Shipped an ElevenLabs SIP/BYOC outbound agent and implemented RAG over
+      domain knowledge to improve relevance and reduce hallucinations.
     </td>
   </tr>
   <tr>
@@ -148,6 +242,23 @@ automation.
 
 </details>
 
+```mermaid
+flowchart LR
+    Product[Product interfaces]
+    Services[AI + backend services]
+    Data[Data + retrieval]
+    Cloud[Cloud delivery]
+
+    Product --> Services --> Data
+    Services --> Cloud
+    Data --> Cloud
+
+    Product --- P[React · React Native · Next.js · Vue]
+    Services --- S[Python · Java · TypeScript · FastAPI · Spring · NestJS]
+    Data --- D[PostgreSQL · Redis · RAG]
+    Cloud --- C[GCP · AWS · Docker · CI/CD · Observability]
+```
+
 ## Experience and education
 
 <table>
@@ -155,9 +266,10 @@ automation.
     <td width="50%" valign="top">
       <strong>Experience</strong>
       <br /><br />
-      <strong>Surecred</strong> — Conversational AI<br />
-      <strong>CI&T</strong> — React and React Native<br />
-      <strong>Recupera.IA</strong> — AI full-stack platform
+      <strong>Surecred</strong> — Full-stack conversational AI platform<br />
+      <strong>CI&T</strong> — Global web and mobile products<br />
+      <strong>Recupera.IA</strong> — AI-driven sales recovery SaaS<br />
+      <strong>Unimed</strong> — Medical and financial operations
     </td>
     <td width="50%" valign="top">
       <strong>Education</strong>
