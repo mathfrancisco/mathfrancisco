@@ -9,16 +9,6 @@ infrastructure and observability.**
 
 `Conversational AI` · `Distributed Systems` · `Cloud-Native SaaS`
 
-<a href="./assets/ai-system-flow.svg" title="Open the production AI system flow">
-  <img
-    src="./assets/ai-system-flow.svg"
-    width="900"
-    alt="Animated production AI flow from channel input through context, LLM reasoning, tools and an observable outcome"
-  />
-</a>
-
-<sub>Channel → context → reasoning → tools → observable outcome</sub>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-matheus.dev-C9A227?style=flat-square)](https://matheus.dev)
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-8C6F1C?style=flat-square&logo=readme&logoColor=white)](<./Curriculo_Matheus_Francisco_En (1).pdf>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Francisco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco0/)
