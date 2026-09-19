@@ -298,40 +298,51 @@ For my full professional experience:
 
 ---
 
-## GitHub snapshot
+## GitHub statistics
 
 <div align="center">
 
-<a href="https://github.com/mathfrancisco">
-  <img
-    src="https://img.shields.io/badge/GitHub-mathfrancisco-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Matheus Francisco on GitHub"
-  />
-</a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathfrancisco&theme=github_dark"
+  alt="Matheus Francisco GitHub profile details"
+/>
+
+<br />
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathfrancisco&theme=github_dark"
+  alt="Languages by repository"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathfrancisco&theme=github_dark"
+  alt="Languages by commits"
+/>
+
+<br />
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathfrancisco&theme=github_dark"
+  alt="GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mathfrancisco&theme=github_dark&utcOffset=-3"
+  alt="Most productive coding time"
+/>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com?user=mathfrancisco&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Java / Spring Boot</strong>
-      <br /><br />
-      <a href="https://github.com/mathfrancisco/URL-Shortenere">URL Shortener</a>
-      <br />
-      REST APIs, full-stack architecture, persistence, Docker and cloud deployment.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Real-time Systems</strong>
-      <br /><br />
-      <a href="https://github.com/mathfrancisco/LiveChat-App">LiveChat App</a>
-      <br />
-      Java, Spring Boot, WebSocket, STOMP and frontend/backend integration.
-    </td>
-  </tr>
-</table>
-
-> GitHub activity and repository statistics change continuously.  
-> Visit my [GitHub profile](https://github.com/mathfrancisco) for the latest repositories, contributions and language activity.
 
 ---
 
