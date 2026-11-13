@@ -6,7 +6,7 @@
   <img src="assets/hero-dark.svg" alt="Matheus Francisco — Software Engineer and Applied AI. Building reliable systems, not just impressive demos." width="100%">
 </picture>
 
-**Software engineering · Backend & Full Stack · Applied AI**
+**Backend & full-stack engineering · Applied AI**
 
 [Portfolio](https://portifolio-ia-nine.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/matheus-francisco0/) · [Projects](https://github.com/mathfrancisco?tab=repositories) · [Email](mailto:math.francisco2@gmail.com)
 
@@ -16,9 +16,9 @@
 
 ### Hi, I'm Matheus.
 
-I build **end-to-end software products**, from domain modeling and APIs to interfaces, deployment and production support. My work spans enterprise payment systems at **CI&T** and conversational AI applications for financial operations.
+I build **reliable backend, full-stack and applied-AI systems**, from domain modeling and APIs to interfaces, deployment and production support. My work spans enterprise payments at **CI&T** and conversational AI for financial operations.
 
-I started with electronics, moved into software engineering, and now study AI alongside building practical AI-powered systems. I'm especially interested in the hard part *around* the model: **source quality, constraints, evaluation, security, latency and graceful failure**.
+I'm especially interested in the hard part *around* the model: **source quality, constraints, evaluation, security, latency and graceful failure**.
 
 > **My rule of thumb:** keep decisions explainable, make failure visible, and measure what matters.
 
@@ -28,7 +28,7 @@ I started with electronics, moved into software engineering, and now study AI al
 
 [![Stylized architecture card for Opportunity Radar, not an application screenshot](assets/projects/radar.svg)](https://github.com/mathfrancisco/Opportunity-Radar)
 
-A local-first system for collecting permitted public job sources, retaining original evidence, normalizing vacancies and supporting application decisions.
+A local-first system that collects permitted public job sources, preserves evidence, normalizes vacancies and supports application decisions.
 
 **Built with:** Python · FastAPI · APScheduler · PostgreSQL · React · Docker Compose · Groq (opt-in).
 
@@ -45,11 +45,11 @@ The optional AI branch is intentionally separate from the deterministic evaluati
 
 </details>
 
-### 02 / [AI Library Platform](https://github.com/mathfrancisco/ai-library-plataform-mvp) — AI inside a real Java product
+### 02 / [AI Library Platform](https://github.com/mathfrancisco/ai-library-plataform-mvp) — AI inside a Java product
 
 [![Stylized architecture card for AI Library Platform, not an application screenshot](assets/projects/library.svg)](https://github.com/mathfrancisco/ai-library-plataform-mvp)
 
-A digital library combining catalog integration, a personal shelf, document ingestion and grounded AI assistance — designed as a **Java modular monolith**.
+A digital library combining catalog integration, a personal shelf, document ingestion and grounded AI assistance in a **Java modular monolith**.
 
 **Built with:** Java 21 · Spring Boot · Spring AI · PostgreSQL / pgvector · Next.js · local ONNX embeddings · Groq chat.
 
@@ -61,7 +61,7 @@ A digital library combining catalog integration, a personal shelf, document inge
 
 [![Stylized architecture card for Personal RAG Assistant, not an application screenshot](assets/projects/rag.svg)](https://github.com/mathfrancisco/Personal-RAG-Assistant)
 
-A document Q&A system that ingests PDF, Markdown, TXT and DOCX, retrieves relevant passages and returns answers with source citations.
+A document Q&A system that ingests common document formats, retrieves relevant passages and returns answers with source citations.
 
 **Built with:** Python · LangChain · ChromaDB · Ollama · Streamlit · pytest · optional Gemini fallback.
 
