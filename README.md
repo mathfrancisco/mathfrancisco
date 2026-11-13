@@ -1,451 +1,146 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:C9A227&height=175&section=header&text=Build.%20Measure.%20Improve.&fontSize=38&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn" alt="Build. Measure. Improve." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" alt="Matheus Francisco — Software Engineer and Applied AI. Building reliable systems, not just impressive demos." width="100%">
+</picture>
 
-# Hey, I'm Matheus Francisco 👋
+**Software engineering · Backend & Full Stack · Applied AI**
 
-### Software Engineer · Applied AI · Backend & Full Stack
+[Portfolio](https://portifolio-ia-nine.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/matheus-francisco0/) · [Projects](https://github.com/mathfrancisco?tab=repositories) · [Email](mailto:math.francisco2@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=0F9D8A&center=true&vCenter=true&width=760&height=55&lines=Building+reliable+software;Java+%2B+Spring+Boot+%2B+TypeScript;LLM+Applications+%2B+RAG+%2B+AI+Agents;From+system+design+to+production;Good+engineering+is+more+than+code." alt="Animated introduction" width="95%" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-C9A227?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-ia-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco0/)
-[![Resume](https://img.shields.io/badge/Resume-View_CV-334155?style=for-the-badge&logo=readme&logoColor=white)](https://portifolio-ia-nine.vercel.app/cv.pdf)
-[![Email](https://img.shields.io/badge/Email-Let's_talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
-
-<br/>
-
-`🇧🇷 Brazil (UTC-3)` · `🌍 Remote opportunities` · `🇺🇸 Fluent English`
+`Brazil · UTC−3` &nbsp; `Remote collaboration` &nbsp; `English / Portuguese`
 
 </div>
 
----
+### Hi, I'm Matheus.
 
-## 👨‍💻 A little about me
+I build **end-to-end software products**, from domain modeling and APIs to interfaces, deployment and production support. My work spans enterprise payment systems at **CI&T** and conversational AI applications for financial operations.
 
-I'm a **Software Engineer working at the intersection of backend engineering, full-stack products and Applied AI**.
+I started with electronics, moved into software engineering, and now study AI alongside building practical AI-powered systems. I'm especially interested in the hard part *around* the model: **source quality, constraints, evaluation, security, latency and graceful failure**.
 
-My professional experience spans enterprise payment systems, distributed backend services, web and mobile applications, and production conversational AI platforms.
+> **My rule of thumb:** keep decisions explainable, make failure visible, and measure what matters.
 
-I work primarily with **Java, Spring Boot, Python, TypeScript, React and NestJS**, building software that needs to be reliable beyond the happy path.
+## Selected work
 
-When working with AI, I focus on the engineering around the model:
+### 01 / [Opportunity Radar](https://github.com/mathfrancisco/Opportunity-Radar) — Evidence-first job intelligence
 
-- **Data & retrieval:** ingestion, indexing, RAG and source-grounded responses.
-- **Agents & integrations:** tool calling, APIs, orchestration and business rules.
-- **Reliability:** fallbacks, guardrails, error handling and observability.
-- **Quality:** automated tests, evaluation, latency and measurable behavior.
-- **Architecture:** clear boundaries, pragmatic design and maintainability.
+[![Stylized architecture card for Opportunity Radar, not an application screenshot](assets/projects/radar.svg)](https://github.com/mathfrancisco/Opportunity-Radar)
 
-> **My engineering philosophy:** An LLM is one component of a system. Reliability comes from everything we build around it.
+A local-first system for collecting permitted public job sources, retaining original evidence, normalizing vacancies and supporting application decisions.
 
----
+**Built with:** Python · FastAPI · APScheduler · PostgreSQL · React · Docker Compose · Groq (opt-in).
 
-## 🚀 Featured engineering projects
+**The decision:** eligibility and scoring stay **deterministic**. The LLM supplies *advisory explanations*, never the final verdict. Source evidence remains traceable; the human controls applications. The architecture is a **modular monolith**, not microservices, and does **not** use Ollama for current matching.
 
-A selection of projects demonstrating how I design systems, make technical decisions and turn ideas into working software.
+[Current architecture](https://github.com/mathfrancisco/Opportunity-Radar/blob/main/docs/47-arquitetura-atual.md) · [Source](https://github.com/mathfrancisco/Opportunity-Radar)
 
-### 01 · Opportunity Radar — AI-assisted job intelligence
+<details>
+<summary><b>Inspect the decision flow</b></summary>
 
-**Local-first platform for collecting, normalizing and evaluating professional opportunities.**
+![Opportunity Radar pipeline: public feeds, raw evidence, normalization, deterministic matching, optional Groq analysis, human decision](assets/architecture/opportunity-radar.svg)
 
-[![Repository](https://img.shields.io/badge/Source_Code-Opportunity_Radar-181717?style=flat-square&logo=github)](https://github.com/mathfrancisco/Opportunity-Radar)
-[![Architecture](https://img.shields.io/badge/Architecture-Explore-0F766E?style=flat-square)](https://github.com/mathfrancisco/Opportunity-Radar/blob/main/docs/47-arquitetura-atual.md)
-
-`Python` `FastAPI` `PostgreSQL` `React` `Docker` `Groq` `GitHub Actions`
-
-Opportunity Radar transforms public, permitted job sources into a structured decision-support system.
-
-**Engineering highlights**
-
-- Scheduled collection from supported public ATS and feeds.
-- Raw source evidence and canonical opportunity normalization.
-- Deduplication and deterministic eligibility scoring.
-- Optional LLM analysis that explains results without overriding business rules.
-- React dashboard with opportunity tracking and human-controlled decisions.
-- Containerized development environment and automated quality checks.
-
-**What makes it different:** The system does not blindly trust AI-generated judgments. Eligibility is deterministic, source evidence is preserved and the final decision remains with the user.
-
-<details open>
-<summary><strong>🧩 Architecture — From raw sources to decisions</strong></summary>
-
-<br/>
-
-```mermaid
-flowchart TB
-    A["Public ATS & Job Feeds"] --> B["Scheduled Collectors"]
-    B --> C["Raw Source Evidence"]
-    C --> D["Normalization & Deduplication"]
-    D --> E[("PostgreSQL")]
-    E --> F["Deterministic Matching"]
-    F --> G["Opportunity Inbox"]
-
-    F -. "Optional context" .-> H["Groq LLM Analysis"]
-    H -. "Advisory only" .-> G
-
-    G --> I(["Human Decision"])
-
-    classDef source fill:#164E63,color:#ffffff,stroke:#0891B2
-    classDef storage fill:#334155,color:#ffffff,stroke:#64748B
-    classDef logic fill:#0F766E,color:#ffffff,stroke:#14B8A6
-    classDef ai fill:#713F12,color:#ffffff,stroke:#CA8A04
-    classDef human fill:#166534,color:#ffffff,stroke:#22C55E
-
-    class A,B,C source
-    class E storage
-    class D,F logic
-    class H ai
-    class I human
-```
-
-**Key architectural decision**
-
-AI generates commentary and explanations, not eligibility verdicts. This keeps matching predictable, auditable and independent of model availability.
-
-[Read the system architecture →](https://github.com/mathfrancisco/Opportunity-Radar/blob/main/docs/47-arquitetura-atual.md)
+The optional AI branch is intentionally separate from the deterministic evaluation. [Full technical diagram](docs/ARCHITECTURES.md#01--opportunity-radar).
 
 </details>
 
-### 02 · AI Library Platform — Java + Spring AI
+### 02 / [AI Library Platform](https://github.com/mathfrancisco/ai-library-plataform-mvp) — AI inside a real Java product
 
-**Intelligent digital library with hybrid retrieval, document understanding and AI assistance.**
+[![Stylized architecture card for AI Library Platform, not an application screenshot](assets/projects/library.svg)](https://github.com/mathfrancisco/ai-library-plataform-mvp)
 
-[![Repository](https://img.shields.io/badge/Source_Code-AI_Library-181717?style=flat-square&logo=github)](https://github.com/mathfrancisco/ai-library-plataform-mvp)
+A digital library combining catalog integration, a personal shelf, document ingestion and grounded AI assistance — designed as a **Java modular monolith**.
 
-`Java 21` `Spring Boot` `Spring AI` `PostgreSQL` `pgvector` `Next.js` `React`
+**Built with:** Java 21 · Spring Boot · Spring AI · PostgreSQL / pgvector · Next.js · local ONNX embeddings · Groq chat.
 
-A modular full-stack product integrating traditional application development with modern AI capabilities.
+**The decision:** combine full-text and semantic retrieval, but scope private vector queries to the owner. Use local embeddings for indexing while keeping chat models configurable. The published MVP is documented separately from V2/V3 plans.
 
-**Engineering highlights**
+[Architecture](https://github.com/mathfrancisco/ai-library-plataform-mvp/blob/main/docs/02-architecture.md) · [Engineering decisions](https://github.com/mathfrancisco/ai-library-plataform-mvp/tree/main/docs/decisions) · [Pipeline diagram](docs/ARCHITECTURES.md#02--ai-library-platform)
 
-- Catalog federation and structured book metadata.
-- Hybrid retrieval combining full-text and vector similarity.
-- Document ingestion and source-grounded RAG.
-- Tenant-scoped retrieval to protect private data.
-- AI-assisted discovery, summaries and recommendations.
-- Tool-enabled assistance with access boundaries.
-- Modular application architecture and documented engineering decisions.
+### 03 / [Personal RAG Assistant](https://github.com/mathfrancisco/Personal-RAG-Assistant) — Local-first, cited answers
 
-**What makes it different:** Rather than creating a basic chatbot wrapper, this project explores how AI fits into a complete Java software product.
+[![Stylized architecture card for Personal RAG Assistant, not an application screenshot](assets/projects/rag.svg)](https://github.com/mathfrancisco/Personal-RAG-Assistant)
 
-### 03 · Personal RAG Assistant — Local-first AI
+A document Q&A system that ingests PDF, Markdown, TXT and DOCX, retrieves relevant passages and returns answers with source citations.
 
-**Document question-answering with citations, local models and measurable retrieval quality.**
+**Built with:** Python · LangChain · ChromaDB · Ollama · Streamlit · pytest · optional Gemini fallback.
 
-[![Repository](https://img.shields.io/badge/Source_Code-Personal_RAG-181717?style=flat-square&logo=github)](https://github.com/mathfrancisco/Personal-RAG-Assistant)
+**The decision:** run locally by default, support incremental re-indexing and make retrieval measurable. The project includes an evaluation **harness** for Recall@k and latency; its example report is **not** a published benchmark.
 
-`Python` `LangChain` `ChromaDB` `Ollama` `Streamlit` `pytest`
-
-**Engineering highlights**
-
-- Multi-format document ingestion.
-- Local-first execution without mandatory cloud API calls.
-- Source citations for generated answers.
-- Incremental indexing based on file changes.
-- Provider abstraction for model flexibility.
-- Retrieval evaluation with Recall@k.
-- Latency measurement and optional tracing.
-
-**What makes it different:** Retrieval quality and transparency are treated as engineering requirements, not afterthoughts.
+[English README](https://github.com/mathfrancisco/Personal-RAG-Assistant/blob/main/README.en.md) · [Evaluation methodology](https://github.com/mathfrancisco/Personal-RAG-Assistant/blob/main/docs/EVALUATION.md) · [Pipeline diagram](docs/ARCHITECTURES.md#03--personal-rag-assistant)
 
 <details>
-<summary><strong>🔬 How a grounded RAG system works</strong></summary>
+<summary><b>More engineering work: Java, APIs and real-time systems</b></summary>
 
-<br/>
-
-```mermaid
-sequenceDiagram
-    autonumber
-    actor User
-    participant App as Application
-    participant Store as Vector Store
-    participant LLM as Language Model
-    participant Eval as Evaluation
-
-    User->>App: Ask question
-    App->>Store: Retrieve relevant chunks
-    Store-->>App: Context + source references
-
-    alt Relevant context found
-        App->>LLM: Question + grounded context
-        LLM-->>App: Answer
-        App-->>User: Answer with citations
-    else Insufficient evidence
-        App-->>User: Explain missing context
-    end
-
-    App->>Eval: Record retrieval and latency metrics
-```
-
-**Engineering principle:** A confident answer is not necessarily a correct answer. Retrieval quality, source traceability and evaluation matter.
+- **[URL Shortener](https://github.com/mathfrancisco/URL-Shortener)** — Java / Spring Boot, security, MongoDB, React and URL analytics.
+- **[LiveChat](https://github.com/mathfrancisco/LiveChat-App)** — real-time communication project with a Spring Boot backend and WebSocket-oriented architecture. Its README contains requirements as well as implementation details; review code for feature-level status.
+- **[Browse all repositories](https://github.com/mathfrancisco?tab=repositories)** — additional experiments and products.
 
 </details>
 
-### 04 · URL Shortener — Full-stack Java
+## Engineering beyond the model
 
-**URL management platform with authentication, analytics and a modern web interface.**
+I treat AI as a **component of a software system**, not as the system itself.
 
-[![Repository](https://img.shields.io/badge/Source_Code-URL_Shortener-181717?style=flat-square&logo=github)](https://github.com/mathfrancisco/URL-Shortener)
-
-`Java` `Spring Boot` `Spring Security` `MongoDB` `React` `TypeScript`
-
-A complete full-stack application exploring REST APIs, user management, authentication, persistence and analytics.
-
-### 05 · LiveChat — Real-time communication
-
-**Real-time messaging using WebSocket-based client/server communication.**
-
-[![Repository](https://img.shields.io/badge/Source_Code-LiveChat-181717?style=flat-square&logo=github)](https://github.com/mathfrancisco/LiveChat-App)
-
-`Java` `Spring Boot` `WebSocket` `STOMP` `Angular`
-
-An exploration of real-time messaging, event-driven features and frontend/backend integration.
-
-<div align="center">
-
-<br/>
-
-[![Explore All Projects](https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathfrancisco?tab=repositories)
-
-</div>
-
----
-
-## 🧠 How I approach AI Engineering
-
-I believe production AI is a **software engineering discipline**, not just a model integration problem.
-
-| Engineering principle | My approach |
-| --- | --- |
-| 🎯 **Grounded responses** | Retrieval pipelines, source references and clear evidence boundaries. |
-| 🛡️ **Human control** | Deterministic rules and advisory-only AI for critical decisions. |
-| 📊 **Measurable quality** | Evaluation datasets, retrieval metrics and latency analysis. |
-| 🔄 **Resilience** | Provider abstraction, graceful degradation and controlled fallbacks. |
-| 🔐 **Security** | Data isolation, authorization and controlled tool execution. |
-| 🏗️ **Pragmatic design** | Modular systems with clear responsibilities and limited complexity. |
-
-### The engineering loop
-
-```mermaid
-flowchart LR
-    A(["Problem"]) --> B["Design"]
-    B --> C["Build"]
-    C --> D["Test"]
-    D --> E["Measure"]
-    E --> F["Improve"]
-    F --> B
-
-    classDef start fill:#0F766E,color:#ffffff,stroke:#14B8A6
-    classDef steps fill:#1E293B,color:#ffffff,stroke:#64748B
-    class A start
-    class B,C,D,E,F steps
-```
-
-*Good systems evolve through feedback, not assumptions.*
-
----
-
-## 💼 Engineering in production
-
-### CI&T — Software Engineer
-
-Working on enterprise payment products across backend services, integrations and web/mobile applications.
-
-**Technical contributions**
-
-- Java/Spring Boot microservices and enterprise API integrations.
-- NestJS BFF services with REST and GraphQL.
-- React, React Native, Next.js and TypeScript applications.
-- API contract design, OpenAPI and security validation.
-- Azure AD and role-based access control.
-- Automated testing, code reviews, CI/CD and observability.
-- Production monitoring using tools such as Datadog.
-
-### Conversational AI & Automation
-
-Professional experience developing AI-enabled communication and credit-recovery systems.
-
-Working across:
-
-- Python/FastAPI services and business integrations.
-- LLM-based conversational workflows.
-- Retrieval-augmented generation and guardrails.
-- WhatsApp and SMS communication.
-- PostgreSQL and tenant-aware data handling.
-- Monitoring, performance tuning and failure recovery.
-
-### Selected engineering outcomes
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 100K+
-
-**Daily users**
-
-Contributed to production web and mobile systems serving a large user base.
-
-</td>
-<td width="33%" align="center">
-
-### 90%
-
-**Backend test coverage**
-
-Worked on automated testing and quality improvements.
-
-</td>
-<td width="33%" align="center">
-
-### −25%
-
-**Production incidents**
-
-Contributed to reliability improvements in professional engineering work.
-
-</td>
-</tr>
-</table>
-
-<sub>Selected outcomes from professional projects; figures reflect specific systems and team efforts, not benchmarks of the public repositories.</sub>
-
----
-
-## 🛠️ My engineering toolkit
-
-<div align="center">
-
-### Backend & APIs
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### AI & Data
-
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-334155?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud, DevOps & Quality
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
+| Concern | An engineering choice I can point to |
+| :--- | :--- |
+| **Explainability over magic** | Opportunity Radar preserves source records and keeps eligibility rules deterministic. |
+| **Retrieval you can inspect** | Personal RAG Assistant exposes sources and an evaluation workflow, rather than asserting unmeasured accuracy. |
+| **Data boundaries** | AI Library Platform applies owner-scoped access for private document retrieval. |
+| **Failure-aware AI** | Optional providers, controlled fallback and operational limits are explicit in the respective projects. |
+| **Complexity with a purpose** | Modular monoliths where they fit; distributed services where scale and organizational boundaries justify them. |
 
 <details>
-<summary><strong>Additional engineering concepts & practices</strong></summary>
+<summary><b>Architecture decisions & trade-offs</b></summary>
 
-<br/>
+| Decision | Benefit | Trade-off |
+| --- | --- | --- |
+| Rules before LLMs for job eligibility | Reproducible decisions | Rules need versioning and upkeep |
+| Hybrid search in a Java product | Lexical + semantic retrieval | Fusion and tenancy add query complexity |
+| Offline-first personal RAG | Local control, no required generation API | Model quality and local resources vary |
+| Source-cited answers | Auditable responses | Citation presence does not guarantee correctness |
 
-`Distributed Systems` · `Microservices` · `Modular Monoliths` · `REST APIs` · `GraphQL` · `BFF` · `DDD` · `Clean Architecture` · `SOLID` · `Automated Testing` · `CI/CD` · `Observability` · `RAG Evaluation` · `Tool Calling` · `API Security` · `Performance Optimization`
+[View the three system diagrams](docs/ARCHITECTURES.md) for the boundaries behind these choices.
 
 </details>
 
----
+## Production engineering & background
 
-## 🎓 Education & certifications
+At **CI&T**, I work with Java / Spring Boot services, API integrations, NestJS BFFs, React-based applications, automated tests and observability in enterprise payments. My applied-AI experience includes Python services, conversational workflows, RAG, business integrations, guardrails and monitoring in financial operations.
 
-**Education**
+**Core toolkit:** `Java` `Spring Boot` `Python` `FastAPI` `TypeScript` `NestJS` `React` `Next.js` `PostgreSQL` `Docker` `CI/CD` `OpenAPI` `Datadog` `RAG` `LLM tools`.
 
-- **B.Sc. in Artificial Intelligence** — UNIVESP, in progress.
-- **Systems Analysis and Development** — UNIFEOB, expected December 2026.
-- **Technical education in Electronics.**
+**Education:** Systems Analysis & Development — UNIFEOB (expected Dec 2026) · Artificial Intelligence — UNIVESP (in progress) · Technical education in Electronics.
 
-**Professional certifications**
-
-- Claude Certified Developer — Foundations
-- Oracle Agentic AI Foundations Associate
-- Oracle AI Database Certified Foundations Associate
-
----
-
-## 📈 GitHub activity
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathfrancisco&theme=github_dark" alt="GitHub contribution overview" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathfrancisco&theme=github_dark" alt="GitHub activity statistics" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathfrancisco&theme=github_dark" alt="Repository language statistics" />
-
-</div>
-
----
-
-## ☕ Beyond the code
+**Certifications:** Claude Certified Developer — Foundations · Oracle Agentic AI Foundations Associate · Oracle AI Database Foundations Associate.
 
 <details>
-<summary><strong>Open my developer terminal</strong></summary>
-
-<br/>
+<summary><b>Open the engineering console</b></summary>
 
 ```text
-$ whoami
-> Software Engineer building reliable products and applied AI.
+$ cat principles.yaml
+source_of_truth: evidence
+business_rules: deterministic_when_possible
+model_outputs: validate_and_observe
+production: expect_failures
+optimization: measure_first
+user_decision: never_implicitly_automated
 
-$ cat engineering-principles.txt
-> Understand the problem before choosing the technology.
-> Keep business rules explicit.
-> Measure before optimizing.
-> Design for failure, not just success.
-> Make the system observable.
-> Prefer maintainability over unnecessary complexity.
-
-$ echo $CURRENT_INTERESTS
-> AI Agents | RAG | System Design | Backend Architecture
-
-$ git status
-> Always learning. Always improving.
-
-$ ./ship.sh
-> Build thoughtfully. Test thoroughly. Ship responsibly. 🚀
+$ ./build-measure-improve
+✓ architecture is a set of trade-offs
+✓ useful AI beats a clever demo
 ```
 
 </details>
 
 ---
 
-## 🤝 Let's build something meaningful
-
-I'm open to remote opportunities involving:
-
-**AI Engineering · Backend Development · Full-Stack Engineering · Applied LLM Systems**
-
-I enjoy working on products that combine solid software fundamentals, thoughtful architecture and practical AI capabilities.
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-C9A227?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-ia-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco0/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:math.francisco2@gmail.com)
+**Let's build software that stays useful after the demo.**
 
-<br/>
+[Get in touch](mailto:math.francisco2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/matheus-francisco0/) · [Portfolio](https://portifolio-ia-nine.vercel.app/)
 
-**Reliable systems. Useful AI. Thoughtful engineering.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:C9A227&height=110&section=footer" alt="Footer" />
+<sub>Visuals are original technical illustrations, not screenshots or measured application telemetry. All essential graphics are versioned in this repository.</sub>
 
 </div>
