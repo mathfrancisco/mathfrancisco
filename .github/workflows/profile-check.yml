@@ -1,0 +1,32 @@
+name: Profile assets validation
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'assets/**'
+      - 'docs/**'
+      - 'scripts/**'
+      - '.github/workflows/profile-check.yml'
+  push:
+    paths:
+      - 'README.md'
+      - 'assets/**'
+      - 'docs/**'
+      - 'scripts/**'
+      - '.github/workflows/profile-check.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  profile-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate local references, SVG and asset size
+        run: python scripts/validate_profile.py
